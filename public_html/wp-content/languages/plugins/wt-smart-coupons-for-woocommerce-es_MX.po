@@ -1,0 +1,362 @@
+# Translation of Plugins - Smart Coupons For WooCommerce Coupons - Stable (latest release) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - Smart Coupons For WooCommerce Coupons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-06 13:08:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - Smart Coupons For WooCommerce Coupons - Stable (latest release)\n"
+
+#: public/class-wt-smart-coupon-public.php:287
+msgid "Starts on "
+msgstr "Comienza en"
+
+#: admin/class-wt-duplicate-coupon.php:53
+#: admin/class-wt-smart-coupon-admin.php:133
+#: admin/modules/checkout_options/checkout_options.php:231
+#: admin/modules/coupon_restriction/coupon_restriction.php:107
+#: admin/modules/giveaway_product/giveaway_product.php:71
+#: admin/modules/giveaway_product/giveaway_product.php:250
+msgid "You do not have sufficient permission to perform this operation"
+msgstr "No tiene permiso suficiente para realizar esta operación"
+
+#: includes/class-wt-smart-coupon-activator.php:39
+msgid "Oops! Woocommerce not activated.."
+msgstr "¡Vaya! Woocommerce no activado.."
+
+#: admin/views/admin-help.php:28
+msgid "Contact Us"
+msgstr "Contáctanos"
+
+#: admin/modules/bogo/views/-bogo-main.php:76
+#: admin/views/general_settings.php:132
+msgid "Help"
+msgstr "Ayuda"
+
+#: admin/views/admin-help.php:25
+msgid "Help and Support"
+msgstr "Ayuda y Soporte"
+
+#: admin/modules/url_coupon/url_coupon.php:181
+#: admin/modules/url_coupon/url_coupon.php:188
+#: admin/modules/url_coupon/views/-tab-data.php:16
+msgid "URL coupon"
+msgstr "Cupón URL"
+
+#: admin/views/admin-help.php:26
+msgid "We would love to help you on any queries or issues."
+msgstr "Nos encantaría ayudarle en cualquier consulta o problema."
+
+#: admin/coupon-start-date/class-wt-smart-coupon-start-date.php:40
+msgid "Coupon start date"
+msgstr "Fecha de inicio del cupón"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:105
+msgid "Contact Support"
+msgstr "Soporte de contacto"
+
+#: admin/modules/exclude-product/exclude-product.php:101
+msgid "Exclude from coupons"
+msgstr "Excluir de cupones"
+
+#: admin/modules/exclude-product/exclude-product.php:102
+msgid "Exclude this product from coupon discounts"
+msgstr "Excluir este producto de los descuentos de cupones"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:191
+msgid "Let our support team help you"
+msgstr "Deje que nuestro equipo de soporte lo ayude"
+
+#: public/modules/coupon_restriction/coupon_restriction.php:549
+#: public/modules/exclude-product/exclude-product.php:174
+msgid "Sorry, this coupon is not applicable for selected products."
+msgstr "Lo sentimos, este cupón no es aplicable para productos seleccionados."
+
+#: admin/modules/auto_coupon/auto_coupon.php:104
+#: admin/modules/freevspro/views/comparison-table.php:72
+#: admin/modules/freevspro/views/comparison-table.php:76
+msgid "Apply coupon automatically"
+msgstr "Aplicar cupón automáticamente"
+
+#: public/modules/auto_coupon/auto_coupon.php:500
+#: public/modules/url_coupon/url_coupon.php:66
+msgid "Coupon code applied successfully"
+msgstr "Código de cupón aplicado con éxito"
+
+#: public/modules/auto_coupon/auto_coupon.php:568
+msgid "Free shipping coupon"
+msgstr "Cupón de envío gratis"
+
+#: admin/modules/auto_coupon/auto_coupon.php:431
+#: admin/modules/bogo/views/---edit-general.php:207
+msgid "Save"
+msgstr "Guardar"
+
+#: admin/modules/freevspro/views/comparison-table.php:78
+msgid "Duplicate coupons"
+msgstr "Cupones duplicados"
+
+#: admin/class-wt-smart-coupon-admin.php:253
+#: admin/modules/bogo/views/-bogo-main.php:49
+msgid "Settings"
+msgstr "Ajustes"
+
+#: public/templates/myaccount/my-account-coupon-view.php:36
+msgid "Available Coupons"
+msgstr "Cupones disponibles"
+
+#: admin/class-wt-smart-coupon-admin.php:530
+#: admin/class-wt-smart-coupon-admin.php:531
+msgid "Add coupon"
+msgstr "Añadir cupón"
+
+#: admin/views/admin-help.php:17 admin/views/admin-help.php:20
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/modules/premium_upgrade/views/page_content.php:291
+#: admin/views/_premium_features_sidebar.php:41
+msgid "30 Day Money Back Guarantee"
+msgstr "30 Días de reembolso garantizado"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:309
+msgid "Maximum price subtotal of the products that match the given product or category restrictions."
+msgstr "Subtotal de precio máximo de los productos que coinciden con las restricciones de producto o categoría dadas."
+
+#: public/class-wt-smart-coupon-public.php:287
+msgid "Expires on "
+msgstr "Vence en"
+
+#: public/modules/checkout_options/checkout_options.php:152
+msgid "Sorry, this coupon is not applicable for your Role"
+msgstr "Lo sentimos, este cupón no es aplicable para su tipo de usuario."
+
+#: admin/modules/bogo/views/--bogo-listing.php:268
+#: admin/modules/bogo/views/--bogo-listing.php:309
+#: common/modules/coupon_style/data/data.template_classic_ticket.php:2
+#: common/modules/coupon_style/data/data.template_default.php:2
+#: common/modules/coupon_style/data/data.template_minimal_outline.php:20
+#: common/modules/coupon_style/data/data.template_plain_coupon.php:5
+#: common/modules/coupon_style/data/data.template_stitched_edge.php:2
+#: common/modules/coupon_style/data/data.template_stitched_padding.php:2
+#: common/modules/coupon_style/data/data.template_ticket_style.php:13
+#: public/class-wt-smart-coupon-public.php:284
+#: public/class-wt-smart-coupon-public.php:422
+msgid "Expired"
+msgstr "Vencido"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:250
+msgid "Category condition:"
+msgstr "Condición de categoría:"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:283
+msgid "Maximum quantity of matching products"
+msgstr "Cantidad máxima de productos que coinciden"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:285
+msgid "Maximum quantity of the products that match the given product or category restrictions. If no product or category restrictions are specified, the total number of products is used."
+msgstr "Cantidad máxima de productos que coinciden con las restricciones de categoría o producto especificadas. Si no se especifican restricciones de producto o categoría, se utiliza el número total de productos."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:307
+msgid "Maximum subtotal of matching products"
+msgstr "Subtotal máximo de productos coincidentes"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:297
+msgid "Minimum price subtotal of the products that match the given product or category restrictions."
+msgstr "Subtotal de precio mínimo de los productos que coinciden con las restricciones de categoría o producto dado."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:271
+msgid "Minimum quantity of matching products"
+msgstr "Cantidad mínima de productos que coinciden"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:273
+msgid "Minimum quantity of the products that match the given product or category restrictions. If no product or category restrictions are specified, the total number of products is used."
+msgstr "Cantidad mínima de productos que coinciden con las restricciones de categoría o producto especificadas. Si no se especifican restricciones de producto o categoría, se utiliza el número total de productos."
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:295
+msgid "Minimum subtotal of matching products"
+msgstr "Subtotal mínimo de productos coincidentes"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:284
+#: admin/modules/coupon_restriction/coupon_restriction.php:308
+msgid "No maximum"
+msgstr "No hay máximo"
+
+#: admin/modules/coupon_restriction/coupon_restriction.php:272
+#: admin/modules/coupon_restriction/coupon_restriction.php:296
+msgid "No minimum"
+msgstr "No hay mínimo"
+
+#: public/modules/checkout_options/checkout_options.php:130
+msgid "Sorry, this coupon is not applicable to selected Payment method"
+msgstr "Lo sentimos, este cupón no es aplicable al método de pago seleccionado"
+
+#: public/modules/checkout_options/checkout_options.php:111
+msgid "Sorry, this coupon is not applicable to selected shipping method"
+msgstr "Lo sentimos, este cupón no es aplicable al método de envío seleccionado"
+
+#: public/modules/coupon_restriction/coupon_restriction.php:951
+msgid "The maximum quantity of matching products for this coupon is %s."
+msgstr "La cantidad máxima de productos compatibles con este cupón es %s."
+
+#: admin/modules/bogo/views/---multiple-dlt-popup.php:23
+#: admin/modules/bogo/views/---single-dlt-popup.php:23
+#: admin/modules/bogo/views/--bogo-listing.php:100
+#: admin/modules/bogo/views/--bogo-listing.php:123
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:107
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:67
+msgid "Other"
+msgstr "Otros"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:31
+msgid "I found a better plugin"
+msgstr "Encontré un mejor plugin"
+
+#: admin/class-wt-smart-coupon-admin.php:281
+#: admin/modules/premium_upgrade/views/page_content.php:294
+msgid "Support"
+msgstr "Soporte"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:55
+msgid "The plugin didn't work as expected"
+msgstr "El plugin no funciono como se esperaba"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:49
+msgid "It's not what I was looking for"
+msgstr "No es lo que estaba buscando"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:45
+msgid "Could you tell us a bit more whats not working?"
+msgstr "¿Podrias decirnos un poco mas que no funciona?"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:43
+msgid "The plugin is not working"
+msgstr "El plugin no funciona"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:106
+msgid "Submit & Deactivate"
+msgstr "Enviar y desactivar"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:189
+msgid "Deactivate and leave a review"
+msgstr "Desactivar y dejar un comentario."
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:104
+msgid "I rather wouldn't say"
+msgstr "Prefiero no decir"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:88
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Si tiene un momento, haganos saber por que esta desactivando:"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:37
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "El complemento es excelente, pero necesito una función específica que no admita ciertas funciones"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:33
+msgid "Which plugin?"
+msgstr "¿Qué plugin?"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:27
+msgid "Would you like us to assist you?"
+msgstr "¿Quieres que te ayudemos?"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:25
+msgid "I couldn't understand how to make it work"
+msgstr "No pude entender como hacerlo funcionar"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:21
+msgid "Have used it successfully and aint in need of it anymore"
+msgstr "Lo he usado con exito y ya no lo necesito."
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:19
+msgid "Used it successfully. Don't need anymore."
+msgstr "Lo use con exito. No necesito mas."
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:69
+msgid "Could you tell us a bit more?"
+msgstr "¿Podrías contarnos un poco más?"
+
+#: wt-smart-coupon.php:115
+msgid "Review"
+msgstr "Reseña"
+
+#: includes/class-wt-smartcoupon-uninstall-feedback.php:57
+msgid "What did you expect?"
+msgstr "¿Que es lo que esperabas?"
+
+#. Author URI of the plugin
+#: wt-smart-coupon.php
+msgid "https://www.webtoffee.com/"
+msgstr "https://www.webtoffee.com/"
+
+#: admin/modules/checkout_options/checkout_options.php:164
+msgid "Coupon will be applicable if customer belongs to any of these User Roles."
+msgstr "El cupón sera aplicable si el cliente pertenece a cualquiera de estos roles de usuario."
+
+#: admin/modules/other_solutions/views/other-solutions-content.php:41
+#: admin/modules/premium_upgrade/views/page_content.php:82
+msgid "Smart Coupons for WooCommerce"
+msgstr "\tSmart Coupons for WooCommerce"
+
+#: admin/modules/checkout_options/checkout_options.php:148
+msgid "Any role"
+msgstr "Cualquier rol de usuario"
+
+#: admin/modules/checkout_options/checkout_options.php:147
+msgid "Applicable Roles"
+msgstr "Roles Aplicables"
+
+#. Author of the plugin
+#: wt-smart-coupon.php admin/modules/bogo/views/---wbte-header.php:21
+msgid "WebToffee"
+msgstr "WebToffee"
+
+#: admin/class-wt-duplicate-coupon.php:92
+#: admin/modules/bogo/views/--bogo-listing.php:402
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: admin/class-wt-duplicate-coupon.php:93
+msgid "Duplicate this item"
+msgstr "Duplicar este articulo"
+
+#: public/class-myaccount-smart-coupon.php:50
+#: public/class-myaccount-smart-coupon.php:70
+msgid "My Coupons"
+msgstr "Mis Cupones"
+
+#: admin/modules/checkout_options/checkout_options.php:126
+msgid "Any payment method"
+msgstr "Cualquier método de pago:"
+
+#: admin/modules/checkout_options/checkout_options.php:84
+msgid "Any shipping method"
+msgstr "Cualquier método de envío:"
+
+#: admin/modules/checkout_options/checkout_options.php:141
+msgid "Coupon will be applicable if any of these payment methods are selected."
+msgstr "El cupón será aplicable si se selecciona alguno de estos métodos de pago."
+
+#: admin/modules/checkout_options/checkout_options.php:118
+msgid "Coupon will be applicable if any of these shipping methods are selected."
+msgstr "El cupón será aplicable si se selecciona alguno de estos métodos de envío."
+
+#: admin/modules/checkout_options/checkout_options.php:125
+msgid "Payment methods"
+msgstr "Métodos de pago"
+
+#: admin/modules/checkout_options/checkout_options.php:83
+msgid "Shipping methods"
+msgstr "Métodos de envío"
+
+#: admin/class-wt-duplicate-coupon.php:60
+msgid "No post to duplicate has been supplied!"
+msgstr "¡No se ha proporcionado ninguna entrada para duplicar!"

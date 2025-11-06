@@ -1,0 +1,145 @@
+ID,Tipo,SKU,"GTIN, UPC, EAN, or ISBN",Nombre,Publicado,¿Está destacado?,Visibilidad en el catálogo,Descripción corta,Descripción,Día en que empieza el precio rebajado,Día en que termina el precio rebajado,Estado del impuesto,Clase de impuesto,¿En inventario?,Inventario,Cantidad de bajo inventario,¿Permitir reservas de productos agotados?,¿Vendido individualmente?,Peso (kg),Longitud (cm),Ancho (cm),Altura (cm),¿Permitir valoraciones de clientes?,Nota de compra,Precio rebajado,Precio normal,Categorías,Etiquetas,Clase de envío,Imágenes,Límite de descargas,Días de caducidad de la descarga,Superior,Productos agrupados,Ventas dirigidas,Ventas cruzadas,URL externa,Texto del botón,Posición,Brands,Nombre del atributo 1,Valor(es) del atributo 1,Atributo visible 1,Atributo global 1,Nombre del atributo 2,Valor(es) del atributo 2,Atributo visible 2,Atributo global 2
+1,variable,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,,1,6,,0,0,,,,,0,,,,FUNDAS,,,https://iuku.store/wp-content/uploads/2025/02/IMG_6249-1.jpg,,,,,,,,,0,,COLOR,Blanco,1,0,MODELO,iPhone 12 / 12 Pro,1,0
+2,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,6,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,1,,COLOR,Blanco,,0,MODELO,iPhone 12 Pro Max,,0
+3,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,2,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,2,,COLOR,Blanco,,0,MODELO,iPhone 13 / 14,,0
+4,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,3,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,3,,COLOR,Blanco,,0,MODELO,iPhone 13 Pro,,0
+5,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,6,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,4,,COLOR,Blanco,,0,MODELO,iPhone 13 Pro Max,,0
+6,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,9,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,6,,COLOR,Blanco,,0,MODELO,iPhone 14 Pro,,0
+7,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,4,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,7,,COLOR,Blanco,,0,MODELO,iPhone 14 Pro Max,,0
+8,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,2,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,8,,COLOR,Blanco,,0,MODELO,iPhone 14 Plus,,0
+9,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,3,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,9,,COLOR,Blanco,,0,MODELO,iPhone 15,,0
+10,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,0,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,10,,COLOR,Blanco,,0,MODELO,iPhone 15 Pro,,0
+11,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,4,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,11,,COLOR,Blanco,,0,MODELO,iPhone 15 Pro Max,,0
+12,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,3,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,12,,COLOR,Blanco,,0,MODELO,iPhone 15 Plus,,0
+13,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,2,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,13,,COLOR,Blanco,,0,MODELO,iPhone 16,,0
+14,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,4,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,14,,COLOR,Blanco,,0,MODELO,iPhone 16 Pro,,0
+15,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,4,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,15,,COLOR,Blanco,,0,MODELO,iPhone 16 Pro Max,,0
+16,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,2,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,16,,COLOR,Blanco,,0,MODELO,iPhone 16 Plus,,0
+17,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,3,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,17,,COLOR,Negro,,0,MODELO,iPhone 12 / 12 Pro,,0
+18,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,5,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,18,,COLOR,Negro,,0,MODELO,iPhone 12 Pro Max,,0
+19,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,4,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,19,,COLOR,Negro,,0,MODELO,iPhone 13 / 14,,0
+20,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,5,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,20,,COLOR,Negro,,0,MODELO,iPhone 13 Pro,,0
+21,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,3,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,21,,COLOR,Negro,,0,MODELO,iPhone 13 Pro Max,,0
+22,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,3,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,23,,COLOR,Negro,,0,MODELO,iPhone 14 Pro,,0
+23,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,5,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,24,,COLOR,Negro,,0,MODELO,iPhone 14 Pro Max,,0
+24,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,2,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,25,,COLOR,Negro,,0,MODELO,iPhone 14 Plus,,0
+25,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,1,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,26,,COLOR,Negro,,0,MODELO,iPhone 15,,0
+26,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,2,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,27,,COLOR,Negro,,0,MODELO,iPhone 15 Pro,,0
+27,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,4,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,28,,COLOR,Negro,,0,MODELO,iPhone 15 Pro Max,,0
+28,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,2,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,29,,COLOR,Negro,,0,MODELO,iPhone 15 Plus,,0
+29,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,1,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,30,,COLOR,Negro,,0,MODELO,iPhone 16,,0
+30,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,3,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,31,,COLOR,Negro,,0,MODELO,iPhone 16 Pro,,0
+31,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,parent,1,5,,0,0,,,,,0,,,,FUNDAS,,,,,,id:76,,,,,,32,,COLOR,Negro,,0,MODELO,iPhone 16 Pro Max,,0
+32,variation,,,Funda ultrafina mate magsafe translúcida rigida,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,33,,COLOR,Negro,,0,MODELO,iPhone 16 Plus,,0
+33,variable,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,34,,COLOR,Blanco,,0,MODELO,iPhone 12 / 12 Pro,,0
+34,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,35,,COLOR,Blanco,,0,MODELO,iPhone 12 Pro Max,,0
+35,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,36,,COLOR,Blanco,,0,MODELO,iPhone 13 / 14,,0
+36,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,37,,COLOR,Blanco,,0,MODELO,iPhone 13 Pro,,0
+37,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,38,,COLOR,Blanco,,0,MODELO,iPhone 13 Pro Max,,0
+38,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,39,,COLOR,Blanco,,0,MODELO,iPhone 14 Pro,,0
+39,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,40,,COLOR,Blanco,,0,MODELO,iPhone 14 Pro Max,,0
+40,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,41,,COLOR,Blanco,,0,MODELO,iPhone 14 Plus,,0
+41,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,42,,COLOR,Blanco,,0,MODELO,iPhone 15,,0
+42,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,43,,COLOR,Blanco,,0,MODELO,iPhone 15 Pro,,0
+43,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,5,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,44,,COLOR,Blanco,,0,MODELO,iPhone 15 Pro Max,,0
+44,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,45,,COLOR,Blanco,,0,MODELO,iPhone 15 Plus,,0
+45,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,46,,COLOR,Blanco,,0,MODELO,iPhone 16,,0
+46,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,47,,COLOR,Blanco,,0,MODELO,iPhone 16 Pro,,0
+47,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,48,,COLOR,Blanco,,0,MODELO,iPhone 16 Pro Max,,0
+48,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,49,,COLOR,Blanco,,0,MODELO,iPhone 16 Plus,,0
+49,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,6,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,50,,COLOR,Negro,,0,MODELO,iPhone 12 / 12 Pro,,0
+50,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,6,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,51,,COLOR,Negro,,0,MODELO,iPhone 12 Pro Max,,0
+51,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,5,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,52,,COLOR,Negro,,0,MODELO,iPhone 13 / 14,,0
+52,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,53,,COLOR,Negro,,0,MODELO,iPhone 13 Pro,,0
+53,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,54,,COLOR,Negro,,0,MODELO,iPhone 13 Pro Max,,0
+54,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,55,,COLOR,Negro,,0,MODELO,iPhone 14 Pro,,0
+55,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,5,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,56,,COLOR,Negro,,0,MODELO,iPhone 14 Pro Max,,0
+56,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,57,,COLOR,Negro,,0,MODELO,iPhone 14 Plus,,0
+57,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,58,,COLOR,Negro,,0,MODELO,iPhone 15,,0
+58,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,59,,COLOR,Negro,,0,MODELO,iPhone 15 Pro,,0
+59,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,60,,COLOR,Negro,,0,MODELO,iPhone 15 Pro Max,,0
+60,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,61,,COLOR,Negro,,0,MODELO,iPhone 15 Plus,,0
+61,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,62,,COLOR,Negro,,0,MODELO,iPhone 16,,0
+62,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,63,,COLOR,Negro,,0,MODELO,iPhone 16 Pro,,0
+63,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,6,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,64,,COLOR,Negro,,0,MODELO,iPhone 16 Pro Max,,0
+64,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,65,,COLOR,Negro,,0,MODELO,iPhone 16 Plus,,0
+65,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,66,,COLOR,Gris,,0,MODELO,iPhone 12 / 12 Pro,,0
+66,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,67,,COLOR,Gris,,0,MODELO,iPhone 12 Pro Max,,0
+67,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,0,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,68,,COLOR,Gris,,0,MODELO,iPhone 13 / 14,,0
+68,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,69,,COLOR,Gris,,0,MODELO,iPhone 13 Pro,,0
+69,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,70,,COLOR,Gris,,0,MODELO,iPhone 13 Pro Max,,0
+70,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,71,,COLOR,Gris,,0,MODELO,iPhone 14 Pro,,0
+71,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,72,,COLOR,Gris,,0,MODELO,iPhone 14 Pro Max,,0
+72,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,73,,COLOR,Gris,,0,MODELO,iPhone 14 Plus,,0
+73,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,0,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,74,,COLOR,Gris,,0,MODELO,iPhone 15,,0
+74,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,8,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,75,,COLOR,Gris,,0,MODELO,iPhone 15 Pro,,0
+75,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,8,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,76,,COLOR,Gris,,0,MODELO,iPhone 15 Pro Max,,0
+76,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,77,,COLOR,Gris,,0,MODELO,iPhone 15 Plus,,0
+77,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,0,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,78,,COLOR,Gris,,0,MODELO,iPhone 16,,0
+78,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,79,,COLOR,Gris,,0,MODELO,iPhone 16 Pro,,0
+79,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,80,,COLOR,Gris,,0,MODELO,iPhone 16 Pro Max,,0
+80,variation,,,Funda con marco de metal transparente magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,81,,COLOR,Gris,,0,MODELO,iPhone 16 Plus,,0
+81,variable,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,82,,COLOR,Negro,,0,MODELO,iPhone 12 / 12 Pro,,0
+82,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,83,,COLOR,Negro,,0,MODELO,iPhone 12 Pro Max,,0
+83,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,84,,COLOR,Negro,,0,MODELO,iPhone 13 / 14,,0
+84,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,6,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,85,,COLOR,Negro,,0,MODELO,iPhone 13 Pro,,0
+85,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,86,,COLOR,Negro,,0,MODELO,iPhone 13 Pro Max,,0
+86,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,87,,COLOR,Negro,,0,MODELO,iPhone 14 Pro,,0
+87,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,4,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,88,,COLOR,Negro,,0,MODELO,iPhone 14 Pro Max,,0
+88,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,89,,COLOR,Negro,,0,MODELO,iPhone 14 Plus,,0
+89,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,90,,COLOR,Negro,,0,MODELO,iPhone 15,,0
+90,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,91,,COLOR,Negro,,0,MODELO,iPhone 15 Pro,,0
+91,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,92,,COLOR,Negro,,0,MODELO,iPhone 15 Pro Max,,0
+92,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,93,,COLOR,Negro,,0,MODELO,iPhone 15 Plus,,0
+93,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,94,,COLOR,Negro,,0,MODELO,iPhone 16,,0
+94,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,95,,COLOR,Negro,,0,MODELO,iPhone 16 Pro,,0
+95,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,96,,COLOR,Negro,,0,MODELO,iPhone 16 Pro Max,,0
+96,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,97,,COLOR,Negro,,0,MODELO,iPhone 16 Plus,,0
+97,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,98,,COLOR,Gris,,0,MODELO,iPhone 12 / 12 Pro,,0
+98,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,99,,COLOR,Gris,,0,MODELO,iPhone 12 Pro Max,,0
+99,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,100,,COLOR,Gris,,0,MODELO,iPhone 14 Pro Max,,0
+100,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,101,,COLOR,Gris,,0,MODELO,iPhone 15 Pro,,0
+101,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,102,,COLOR,Gris,,0,MODELO,iPhone 15 Pro Max,,0
+102,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,103,,COLOR,Gris,,0,MODELO,iPhone 16,,0
+103,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,104,,COLOR,Gris,,0,MODELO,iPhone 16 Pro,,0
+104,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,105,,COLOR,Gris,,0,MODELO,iPhone 16 Pro Max,,0
+105,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,106,,COLOR,Azul,,0,MODELO,iPhone 12 / 12 Pro,,0
+106,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,107,,COLOR,Azul,,0,MODELO,iPhone 12 Pro Max,,0
+107,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,108,,COLOR,Azul,,0,MODELO,iPhone 13 Pro,,0
+108,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,109,,COLOR,Azul,,0,MODELO,iPhone 16,,0
+109,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,110,,COLOR,Rosa,,0,MODELO,iPhone 12 / 12 Pro,,0
+110,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,0,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,111,,COLOR,Rosa,,0,MODELO,iPhone 13 / 14,,0
+111,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,112,,COLOR,Rosa,,0,MODELO,iPhone 14 Plus,,0
+112,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,113,,COLOR,Rosa,,0,MODELO,iPhone 15,,0
+113,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,114,,COLOR,Rosa,,0,MODELO,iPhone 15 Plus,,0
+114,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,115,,COLOR,Rosa,,0,MODELO,iPhone 16,,0
+115,variation,,,Funda mate trasucida magsafe,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,116,,COLOR,Rosa,,0,MODELO,iPhone 16 Plus,,0
+116,variable,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,117,,COLOR,Negro,,0,MODELO,iPhone 12 / 12 Pro,,0
+117,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,118,,COLOR,Negro,,0,MODELO,iPhone 12 Pro Max,,0
+118,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,119,,COLOR,Negro,,0,MODELO,iPhone 13 / 14,,0
+119,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,120,,COLOR,Negro,,0,MODELO,iPhone 13 Pro,,0
+120,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,121,,COLOR,Negro,,0,MODELO,iPhone 13 Pro Max,,0
+121,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,122,,COLOR,Negro,,0,MODELO,iPhone 14 Pro,,0
+122,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,123,,COLOR,Negro,,0,MODELO,iPhone 14 Pro Max,,0
+123,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,124,,COLOR,Negro,,0,MODELO,iPhone 14 Plus,,0
+124,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,125,,COLOR,Negro,,0,MODELO,iPhone 15,,0
+125,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,126,,COLOR,Negro,,0,MODELO,iPhone 15 Pro,,0
+126,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,127,,COLOR,Negro,,0,MODELO,iPhone 15 Pro Max,,0
+127,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,128,,COLOR,Negro,,0,MODELO,iPhone 15 Plus,,0
+128,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,129,,COLOR,Negro,,0,MODELO,iPhone 16,,0
+129,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,130,,COLOR,Negro,,0,MODELO,iPhone 16 Pro,,0
+130,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,131,,COLOR,Negro,,0,MODELO,iPhone 16 Pro Max,,0
+131,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,132,,COLOR,Negro,,0,MODELO,iPhone 16 Plus,,0
+132,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,133,,COLOR,Gris,,0,MODELO,iPhone 12 / 12 Pro,,0
+133,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,134,,COLOR,Gris,,0,MODELO,iPhone 13 Pro,,0
+134,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,135,,COLOR,Gris,,0,MODELO,iPhone 15 Pro,,0
+135,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,136,,COLOR,Gris,,0,MODELO,iPhone 15 Pro Max,,0
+136,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,137,,COLOR,Gris,,0,MODELO,iPhone 16,,0
+137,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,138,,COLOR,Gris,,0,MODELO,iPhone 16 Pro,,0
+138,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,139,,COLOR,Gris,,0,MODELO,iPhone 16 Pro Max,,0
+139,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,140,,COLOR,Gold,,0,MODELO,iPhone 14 Pro,,0
+140,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,141,,COLOR,Gold,,0,MODELO,iPhone 14 Pro Max,,0
+141,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,142,,COLOR,Gold,,0,MODELO,iPhone 15 Pro,,0
+142,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,1,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,143,,COLOR,Gold,,0,MODELO,iPhone 15 Pro Max,,0
+143,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,3,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,144,,COLOR,Gold,,0,MODELO,iPhone 16 Pro,,0
+144,variation,,,Funda con soporte de anillo magsafe mate,1,0,visible,,,,,taxable,,1,2,,0,0,,,,,,,,,FUNDAS,,,,,,,,,,,,145,,COLOR,Gold,,0,MODELO,iPhone 16 Pro Max,,0
