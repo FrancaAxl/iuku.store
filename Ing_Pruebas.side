@@ -1,0 +1,756 @@
+{
+  "id": "0ab682b4-81cf-48b5-8ed8-17e1e18c15a5",
+  "version": "2.0",
+  "name": "Ing_Pruebas",
+  "url": "https://iuku.store",
+  "tests": [{
+    "id": "8fdfb523-c11b-4452-8d97-01485696cd05",
+    "name": "Prueba 1",
+    "commands": [{
+      "id": "bc2ffc84-cfdb-4044-aa88-34bf4e144d46",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "98d2679e-4968-4829-8bfb-a8b828f5b16b",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1382x744",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "23613306-a812-44a8-b6de-ddb1cec25961",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-2595 > .ct-menu-link",
+      "targets": [
+        ["css=#menu-item-2595 > .ct-menu-link", "css:finder"],
+        ["xpath=(//a[contains(text(),'Inicio')])[2]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-2595']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://iuku.store/')])[6]", "xpath:href"],
+        ["xpath=//div[2]/div/nav/ul/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c0715a8d-76fb-47dc-b7fe-06a7a52f6b3d",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-3712 > .ct-menu-link",
+      "targets": [
+        ["css=#menu-item-3712 > .ct-menu-link", "css:finder"],
+        ["xpath=(//a[contains(text(),'Tienda')])[2]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-3712']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://iuku.store/tienda/')])[2]", "xpath:href"],
+        ["xpath=//div[2]/div/nav/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e8875ae5-f43f-4447-a1e8-75c152df96af",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-2833 > .ct-menu-link",
+      "targets": [
+        ["css=#menu-item-2833 > .ct-menu-link", "css:finder"],
+        ["xpath=(//a[contains(text(),'Nosotros')])[2]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-2833']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://iuku.store/about-us/')])[2]", "xpath:href"],
+        ["xpath=//div[2]/div/nav/ul/li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "de6b5324-42d8-4d7f-9c14-82fa0c7af945",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-3712 > .ct-menu-link",
+      "targets": [
+        ["css=#menu-item-3712 > .ct-menu-link", "css:finder"],
+        ["xpath=(//a[contains(text(),'Tienda')])[2]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-3712']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://iuku.store/tienda/')])[2]", "xpath:href"],
+        ["xpath=//div[2]/div/nav/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2049d890-8e63-4ebc-b993-7c3953d1e64c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.post-7186 .wp-post-image",
+      "targets": [
+        ["css=.post-7186 .wp-post-image", "css:finder"],
+        ["xpath=//img[@alt='MagSafe']", "xpath:img"],
+        ["xpath=//main[@id='main']/div/section/ul/li/figure/a/img[2]", "xpath:idRelative"],
+        ["xpath=//img[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "661f9ba2-68d3-4f47-93ac-e76d7e221cee",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,57.400001525878906)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "93de249d-ae0b-4bef-b148-0644d8cbb215",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ct-increase",
+      "targets": [
+        ["css=.ct-increase", "css:finder"],
+        ["xpath=//div[@id='product-7186']/div/div[2]/div[2]/form/div/div/span", "xpath:idRelative"],
+        ["xpath=//form/div/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "666c021d-8da1-4718-8096-1579fdb94138",
+      "comment": "",
+      "command": "click",
+      "target": "css=.ct-decrease",
+      "targets": [
+        ["css=.ct-decrease", "css:finder"],
+        ["xpath=//div[@id='product-7186']/div/div[2]/div[2]/form/div/div/span[2]", "xpath:idRelative"],
+        ["xpath=//form/div/div/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b703945c-7937-4990-b9c0-347d2550760c",
+      "comment": "",
+      "command": "click",
+      "target": "name=add-to-cart",
+      "targets": [
+        ["name=add-to-cart", "name"],
+        ["css=.single_add_to_cart_button", "css:finder"],
+        ["xpath=//button[@name='add-to-cart']", "xpath:attributes"],
+        ["xpath=//div[@id='product-7186']/div/div[2]/div[2]/form/div/button", "xpath:idRelative"],
+        ["xpath=//form/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Añadir al carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7d728c80-cc70-4cdd-b42b-63dca1181bea",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,78)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "917a830b-d5eb-48e5-a9f9-a6807361854e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.product-quantity .ct-increase",
+      "targets": [
+        ["css=.product-quantity .ct-increase", "css:finder"],
+        ["xpath=//article[@id='post-2072']/div[2]/div/div[2]/form/table/tbody/tr/td[3]/div/span", "xpath:idRelative"],
+        ["xpath=//td[3]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "519532bb-a8a7-4512-9b4c-21236ffb8749",
+      "comment": "",
+      "command": "click",
+      "target": "css=.product-quantity .ct-decrease",
+      "targets": [
+        ["css=.product-quantity .ct-decrease", "css:finder"],
+        ["xpath=//article[@id='post-2072']/div[2]/div/div[2]/form/table/tbody/tr/td[3]/div/span[2]", "xpath:idRelative"],
+        ["xpath=//td[3]/div/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fb767b84-1f97-4faa-8404-826ecabb7bfa",
+      "comment": "",
+      "command": "click",
+      "target": "css=.product-remove:nth-child(5) path",
+      "targets": [
+        ["css=.product-remove:nth-child(5) path", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "7357e8db-65d6-4c80-9aa6-e79330da2078",
+      "comment": "",
+      "command": "click",
+      "target": "css=#menu-item-3712 > .ct-menu-link",
+      "targets": [
+        ["css=#menu-item-3712 > .ct-menu-link", "css:finder"],
+        ["xpath=(//a[contains(text(),'Tienda')])[2]", "xpath:link"],
+        ["xpath=//li[@id='menu-item-3712']/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://iuku.store/tienda/')])[2]", "xpath:href"],
+        ["xpath=//div[2]/div/nav/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b2ce876c-3ae6-44c2-a721-20f9f5b97053",
+      "comment": "",
+      "command": "click",
+      "target": "css=.post-7185 .wp-post-image",
+      "targets": [
+        ["css=.post-7185 .wp-post-image", "css:finder"],
+        ["xpath=//img[@alt='Cartera de Lujo iuku']", "xpath:img"],
+        ["xpath=//main[@id='main']/div/section/ul/li[2]/figure/a/img[2]", "xpath:idRelative"],
+        ["xpath=//li[2]/figure/a/img[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f24fd4da-6dd9-43fe-b3db-0b4c4a2965a5",
+      "comment": "",
+      "command": "click",
+      "target": "name=add-to-cart",
+      "targets": [
+        ["name=add-to-cart", "name"],
+        ["css=.single_add_to_cart_button", "css:finder"],
+        ["xpath=//button[@name='add-to-cart']", "xpath:attributes"],
+        ["xpath=//div[@id='product-7185']/div/div[2]/div/form/div/button", "xpath:idRelative"],
+        ["xpath=//form/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Añadir al carrito')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2fa74ddf-1bc7-4d4e-8388-2ecd7d453e59",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Seguir comprando",
+      "targets": [
+        ["linkText=Seguir comprando", "linkText"],
+        ["css=.woocommerce-message > .button", "css:finder"],
+        ["xpath=//a[contains(text(),'Seguir comprando')]", "xpath:link"],
+        ["xpath=//article[@id='post-2072']/div[2]/div/div/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://iuku.store/tienda/cartera-de-lujo-iuku/')])[3]", "xpath:href"],
+        ["xpath=//div[2]/div/div/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Seguir comprando')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8d46cbdd-baa3-4d71-b25c-dae914bfb615",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=svg:nth-child(2) > path",
+      "targets": [
+        ["css=svg:nth-child(2) > path", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "cd1be6b9-bc45-421f-9fef-78e4dec2caea",
+      "comment": "",
+      "command": "click",
+      "target": "css=svg:nth-child(2) > path",
+      "targets": [
+        ["css=svg:nth-child(2) > path", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "bd147a5f-d5d4-40bf-9555-f7b417b43c51",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Finalizar compra",
+      "targets": [
+        ["linkText=Finalizar compra", "linkText"],
+        ["css=.checkout-button", "css:finder"],
+        ["xpath=(//a[contains(text(),'Finalizar compra')])[2]", "xpath:link"],
+        ["xpath=//article[@id='post-2072']/div[2]/div/div[2]/div/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://iuku.store/checkout-2/')])[2]", "xpath:href"],
+        ["xpath=//div[2]/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4eee86a2-7ef6-4b89-81ac-f6e84f555e9f",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,204)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b99c67b5-1d26-4653-892a-0aa66c57c48f",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_first_name",
+      "targets": [
+        ["id=billing_first_name", "id"],
+        ["name=billing_first_name", "name"],
+        ["css=#billing_first_name", "css:finder"],
+        ["xpath=//input[@id='billing_first_name']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_first_name_field']/span/input", "xpath:idRelative"],
+        ["xpath=//div/p/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c8dc318e-a716-4653-8d42-662d9150e2a6",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_first_name",
+      "targets": [
+        ["id=billing_first_name", "id"],
+        ["name=billing_first_name", "name"],
+        ["css=#billing_first_name", "css:finder"],
+        ["xpath=//input[@id='billing_first_name']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_first_name_field']/span/input", "xpath:idRelative"],
+        ["xpath=//div/p/span/input", "xpath:position"]
+      ],
+      "value": "Pedro"
+    }, {
+      "id": "8a48bfa8-3062-4278-99f1-1fa46721524d",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_last_name",
+      "targets": [
+        ["id=billing_last_name", "id"],
+        ["name=billing_last_name", "name"],
+        ["css=#billing_last_name", "css:finder"],
+        ["xpath=//input[@id='billing_last_name']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_last_name_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[2]/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f918bbc-7440-4b8e-8acb-fc63764208e4",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_last_name",
+      "targets": [
+        ["id=billing_last_name", "id"],
+        ["name=billing_last_name", "name"],
+        ["css=#billing_last_name", "css:finder"],
+        ["xpath=//input[@id='billing_last_name']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_last_name_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[2]/span/input", "xpath:position"]
+      ],
+      "value": "Pruebas"
+    }, {
+      "id": "60a73f1b-b345-4fc1-9f2a-8da112a8c560",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_company",
+      "targets": [
+        ["id=billing_company", "id"],
+        ["name=billing_company", "name"],
+        ["css=#billing_company", "css:finder"],
+        ["xpath=//input[@id='billing_company']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_company_field']/span/input", "xpath:idRelative"],
+        ["xpath=//div/p[3]/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3238c64a-f59a-4d35-8f55-5d17d850004c",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_company",
+      "targets": [
+        ["id=billing_company", "id"],
+        ["name=billing_company", "name"],
+        ["css=#billing_company", "css:finder"],
+        ["xpath=//input[@id='billing_company']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_company_field']/span/input", "xpath:idRelative"],
+        ["xpath=//div/p[3]/span/input", "xpath:position"]
+      ],
+      "value": "UPIICSA"
+    }, {
+      "id": "c2659f61-a2d3-4f83-9ba7-1f135da01309",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_address_1",
+      "targets": [
+        ["id=billing_address_1", "id"],
+        ["name=billing_address_1", "name"],
+        ["css=#billing_address_1", "css:finder"],
+        ["xpath=//input[@id='billing_address_1']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_address_1_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[5]/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9bdd587d-a9c6-4e7c-b7c1-e791e90248aa",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_address_1",
+      "targets": [
+        ["id=billing_address_1", "id"],
+        ["name=billing_address_1", "name"],
+        ["css=#billing_address_1", "css:finder"],
+        ["xpath=//input[@id='billing_address_1']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_address_1_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[5]/span/input", "xpath:position"]
+      ],
+      "value": "Té"
+    }, {
+      "id": "c8652469-2c12-4e07-9363-349935795a4d",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_address_2",
+      "targets": [
+        ["id=billing_address_2", "id"],
+        ["name=billing_address_2", "name"],
+        ["css=#billing_address_2", "css:finder"],
+        ["xpath=//input[@id='billing_address_2']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_address_2_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[6]/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "710f38fc-1f52-4270-92fe-2af44583f4be",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_address_2",
+      "targets": [
+        ["id=billing_address_2", "id"],
+        ["name=billing_address_2", "name"],
+        ["css=#billing_address_2", "css:finder"],
+        ["xpath=//input[@id='billing_address_2']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_address_2_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[6]/span/input", "xpath:position"]
+      ],
+      "value": "sn"
+    }, {
+      "id": "f24e3a9c-1752-4338-ad1b-3a8960c3f82f",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_city",
+      "targets": [
+        ["id=billing_city", "id"],
+        ["name=billing_city", "name"],
+        ["css=#billing_city", "css:finder"],
+        ["xpath=//input[@id='billing_city']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_city_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[7]/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6d4d8686-c0d1-4e69-8205-cc225805970c",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_city",
+      "targets": [
+        ["id=billing_city", "id"],
+        ["name=billing_city", "name"],
+        ["css=#billing_city", "css:finder"],
+        ["xpath=//input[@id='billing_city']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_city_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[7]/span/input", "xpath:position"]
+      ],
+      "value": "Iztacalco"
+    }, {
+      "id": "b7b6b06f-2c21-4b33-8d3e-e11332214c28",
+      "comment": "",
+      "command": "click",
+      "target": "css=.select2-container--below .select2-selection__arrow",
+      "targets": [
+        ["css=.select2-container--below .select2-selection__arrow", "css:finder"],
+        ["xpath=//p[@id='billing_state_field']/span/span/span/span/span[2]", "xpath:idRelative"],
+        ["xpath=//span/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2258e016-9887-464e-bd21-18bb83302f8b",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_postcode",
+      "targets": [
+        ["id=billing_postcode", "id"],
+        ["name=billing_postcode", "name"],
+        ["css=#billing_postcode", "css:finder"],
+        ["xpath=//input[@id='billing_postcode']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_postcode_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[9]/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b453cf6d-9d09-48b2-9d85-eb8f5153958d",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,918)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "aa8d9b37-2ae9-4478-9598-70bb529bc01a",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_postcode",
+      "targets": [
+        ["id=billing_postcode", "id"],
+        ["name=billing_postcode", "name"],
+        ["css=#billing_postcode", "css:finder"],
+        ["xpath=//input[@id='billing_postcode']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_postcode_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[9]/span/input", "xpath:position"]
+      ],
+      "value": "52000"
+    }, {
+      "id": "6e1f70d7-e0ec-48f7-89ce-d1b7e18f194b",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_phone",
+      "targets": [
+        ["id=billing_phone", "id"],
+        ["name=billing_phone", "name"],
+        ["css=#billing_phone", "css:finder"],
+        ["xpath=//input[@id='billing_phone']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_phone_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[10]/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "492da0dd-2f28-45f2-8c6f-a33ebca53931",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_phone",
+      "targets": [
+        ["id=billing_phone", "id"],
+        ["name=billing_phone", "name"],
+        ["css=#billing_phone", "css:finder"],
+        ["xpath=//input[@id='billing_phone']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_phone_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[10]/span/input", "xpath:position"]
+      ],
+      "value": "5512345678"
+    }, {
+      "id": "265020f9-fd99-4088-97b4-ba799ab8c28c",
+      "comment": "",
+      "command": "click",
+      "target": "id=billing_email",
+      "targets": [
+        ["id=billing_email", "id"],
+        ["name=billing_email", "name"],
+        ["css=#billing_email", "css:finder"],
+        ["xpath=//input[@id='billing_email']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_email_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[11]/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "38e54465-e063-44eb-afd9-41a6510ff7d4",
+      "comment": "",
+      "command": "type",
+      "target": "id=billing_email",
+      "targets": [
+        ["id=billing_email", "id"],
+        ["name=billing_email", "name"],
+        ["css=#billing_email", "css:finder"],
+        ["xpath=//input[@id='billing_email']", "xpath:attributes"],
+        ["xpath=//p[@id='billing_email_field']/span/input", "xpath:idRelative"],
+        ["xpath=//p[11]/span/input", "xpath:position"]
+      ],
+      "value": "pruebas@gmail.com"
+    }, {
+      "id": "00e54e66-9a1c-436b-8094-319e3a234fbb",
+      "comment": "",
+      "command": "click",
+      "target": "css=.form-row-wide > .woocommerce-form__label",
+      "targets": [
+        ["css=.form-row-wide > .woocommerce-form__label", "css:finder"],
+        ["xpath=//div[@id='customer_details']/div/div[2]/p/label", "xpath:idRelative"],
+        ["xpath=//div[2]/p/label", "xpath:position"],
+        ["xpath=//label[contains(.,' ¿Crear una cuenta?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "90b6f013-0da1-4877-91cd-589f99f5b04b",
+      "comment": "",
+      "command": "click",
+      "target": "id=shipping_first_name",
+      "targets": [
+        ["id=shipping_first_name", "id"],
+        ["name=shipping_first_name", "name"],
+        ["css=#shipping_first_name", "css:finder"],
+        ["xpath=//input[@id='shipping_first_name']", "xpath:attributes"],
+        ["xpath=//p[@id='shipping_first_name_field']/span/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div[2]/div/div/div/p/span/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "839a6bb5-4371-47ef-941c-f64c3c671593",
+      "comment": "",
+      "command": "click",
+      "target": "id=ship-to-different-address-checkbox",
+      "targets": [
+        ["id=ship-to-different-address-checkbox", "id"],
+        ["name=ship_to_different_address", "name"],
+        ["css=#ship-to-different-address-checkbox", "css:finder"],
+        ["xpath=//input[@id='ship-to-different-address-checkbox']", "xpath:attributes"],
+        ["xpath=//h3[@id='ship-to-different-address']/label/input", "xpath:idRelative"],
+        ["xpath=//h3/label/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "633ede34-7058-45ad-9e51-cb06822e12ad",
+      "comment": "",
+      "command": "click",
+      "target": "id=order_comments",
+      "targets": [
+        ["id=order_comments", "id"],
+        ["name=order_comments", "name"],
+        ["css=#order_comments", "css:finder"],
+        ["xpath=//textarea[@id='order_comments']", "xpath:attributes"],
+        ["xpath=//p[@id='order_comments_field']/span/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0a54ab87-5d22-4d29-b3c4-07fde0ac26fd",
+      "comment": "",
+      "command": "type",
+      "target": "id=order_comments",
+      "targets": [
+        ["id=order_comments", "id"],
+        ["name=order_comments", "name"],
+        ["css=#order_comments", "css:finder"],
+        ["xpath=//textarea[@id='order_comments']", "xpath:attributes"],
+        ["xpath=//p[@id='order_comments_field']/span/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "Prueba de envío"
+    }, {
+      "id": "46f37ed1-835d-4910-a095-29c7870131d9",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=2",
+      "targets": [
+        ["index=2"]
+      ],
+      "value": ""
+    }, {
+      "id": "41bc21f9-3235-4b71-b7d4-63b0fb3f9249",
+      "comment": "",
+      "command": "waitForElementEditable",
+      "target": "id=Field-numberInput",
+      "targets": [
+        ["id=Field-numberInput", "id"],
+        ["name=number", "name"],
+        ["css=#Field-numberInput", "css:finder"],
+        ["xpath=//input[@id='Field-numberInput']", "xpath:attributes"],
+        ["xpath=//div[@id='card-panel']/div/div/form/div/div/div/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "30000"
+    }, {
+      "id": "ca56fad6-f4e9-45c2-ad4b-4c23eeaf4060",
+      "comment": "",
+      "command": "click",
+      "target": "id=Field-numberInput",
+      "targets": [
+        ["id=Field-numberInput", "id"],
+        ["name=number", "name"],
+        ["css=#Field-numberInput", "css:finder"],
+        ["xpath=//input[@id='Field-numberInput']", "xpath:attributes"],
+        ["xpath=//div[@id='card-panel']/div/div/form/div/div/div/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2cc93723-7d1b-4e44-916b-1c2b43bafb96",
+      "comment": "",
+      "command": "type",
+      "target": "id=Field-numberInput",
+      "targets": [
+        ["id=Field-numberInput", "id"],
+        ["name=number", "name"],
+        ["css=#Field-numberInput", "css:finder"],
+        ["xpath=//input[@id='Field-numberInput']", "xpath:attributes"],
+        ["xpath=//div[@id='card-panel']/div/div/form/div/div/div/div/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "1234 5678 1234 5678"
+    }, {
+      "id": "d046bd35-6e44-4af0-8d57-f01cef150dd6",
+      "comment": "",
+      "command": "click",
+      "target": "id=Field-expiryInput",
+      "targets": [
+        ["id=Field-expiryInput", "id"],
+        ["name=expiry", "name"],
+        ["css=#Field-expiryInput", "css:finder"],
+        ["xpath=//input[@id='Field-expiryInput']", "xpath:attributes"],
+        ["xpath=//div[@id='card-panel']/div/div/form/div/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "44a4d9c2-2f85-4379-8934-8478dbfd84ea",
+      "comment": "",
+      "command": "type",
+      "target": "id=Field-expiryInput",
+      "targets": [
+        ["id=Field-expiryInput", "id"],
+        ["name=expiry", "name"],
+        ["css=#Field-expiryInput", "css:finder"],
+        ["xpath=//input[@id='Field-expiryInput']", "xpath:attributes"],
+        ["xpath=//div[@id='card-panel']/div/div/form/div/div/div/div[2]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": "12 / 34"
+    }, {
+      "id": "13350441-8bb2-4df4-9f11-4d1bb87fcdaa",
+      "comment": "",
+      "command": "type",
+      "target": "id=Field-cvcInput",
+      "targets": [
+        ["id=Field-cvcInput", "id"],
+        ["name=cvc", "name"],
+        ["css=#Field-cvcInput", "css:finder"],
+        ["xpath=//input[@id='Field-cvcInput']", "xpath:attributes"],
+        ["xpath=//div[@id='card-panel']/div/div/form/div/div/div/div[3]/div/div/div/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/div/div/div/input", "xpath:position"]
+      ],
+      "value": "111"
+    }, {
+      "id": "a42c0044-4f88-403b-9254-717ea7c6db82",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "relative=parent",
+      "targets": [
+        ["relative=parent"]
+      ],
+      "value": ""
+    }, {
+      "id": "33e762a9-b63a-464e-bf54-63686d3c55fa",
+      "comment": "",
+      "command": "click",
+      "target": "id=wc-stripe-new-payment-method",
+      "targets": [
+        ["id=wc-stripe-new-payment-method", "id"],
+        ["name=wc-stripe-new-payment-method", "name"],
+        ["css=#wc-stripe-new-payment-method", "css:finder"],
+        ["xpath=//input[@id='wc-stripe-new-payment-method']", "xpath:attributes"],
+        ["xpath=//div[@id='payment']/ul/li/div/fieldset[2]/p/input", "xpath:idRelative"],
+        ["xpath=//fieldset[2]/p/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "38a0f40b-a544-4e52-8db9-afe2e5d2d05a",
+      "comment": "",
+      "command": "click",
+      "target": "id=terms",
+      "targets": [
+        ["id=terms", "id"],
+        ["name=terms", "name"],
+        ["css=#terms", "css:finder"],
+        ["xpath=//input[@id='terms']", "xpath:attributes"],
+        ["xpath=//div[@id='payment']/div/div/p/label/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/div/p/label/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "452fda60-e021-463b-9b2f-df66320443ff",
+      "comment": "",
+      "command": "click",
+      "target": "id=place_order",
+      "targets": [
+        ["id=place_order", "id"],
+        ["name=woocommerce_checkout_place_order", "name"],
+        ["css=#place_order", "css:finder"],
+        ["xpath=//button[@id='place_order']", "xpath:attributes"],
+        ["xpath=//div[@id='payment']/div/button", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Realizar el pedido')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "50e26348-2770-4a1d-af46-6dcff74a5489",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["8fdfb523-c11b-4452-8d97-01485696cd05"]
+  }],
+  "urls": ["https://iuku.store/"],
+  "plugins": []
+}
